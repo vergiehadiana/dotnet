@@ -138,7 +138,7 @@ name | value
 -----| -----
 app | js-dotnet-web
 
-![app](https://github.com/ibmcloudprivate2/dotnet/images/service.png)
+![app](../../images/service.png)
 
 # Operation on application deployed
 You can deploy new version of image, rollback, scale and remove your deployment from the deployment dashboard. Search for your application and click on the vertical ellipsis "..." as shown below.
