@@ -115,7 +115,7 @@ Name | js-dotnet-web
 Image | mycluster.icp:8500/jaricdev/aspnetmvcapp:1.0
 Container port | 80
 
-![app](https://github.com/ibmcloudprivate2/dotnet/images/deployment.png)
+![app](../../images/deployment.png)
 
 # Expose the deployment with Service
 
