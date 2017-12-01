@@ -1,5 +1,7 @@
 # Build, Test and Deploy a docker ASPNET MVC Core application
 
+Create an application .NET core application locally.
+
 # Create sample application
 
 ```
