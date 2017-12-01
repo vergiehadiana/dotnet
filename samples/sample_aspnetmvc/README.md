@@ -101,7 +101,7 @@ docker push mycluster.icp:8500/jaricdev/aspnetmvcapp:1.0
 ```
 
 # Deploy the image
-To deploy the image pushed to private repo of IBM Cloud Private, from the menu Workloads/Deployments enter the following information in the 'Create Deployment' dialog.
+To deploy the image pushed to private repo of [IBM Cloud private](https://www.ibm.com/cloud-computing/products/ibm-cloud-private/), from the menu Workloads/Deployments enter the following information in the 'Create Deployment' dialog.
 
 General Tab
 
@@ -153,7 +153,19 @@ You can access your application from Service dashboard, search for your applicat
 ![app](../../images/service-ops.png)
 
 ## the .net application
+Below shows the application running in [IBM Cloud private](https://www.ibm.com/cloud-computing/products/ibm-cloud-private/)
+
 ![app](../../images/app.png)
 
 # Create Helm charset
 **todo**
+
+# References
+- [ICP introduction](https://www.ibm.com/support/knowledgecenter/en/SSBS6K_2.1.0/getting_started/introduction.html)
+- [IBM reference architecture](https://www.ibm.com/cloud/garage/content/think/practice_get_started_with_architectures/)
+- [here you will find dashboard of ref architecture](https://www.ibm.com/cloud/garage/category/architectures)
+- [specifically for microservice architecture](https://www.ibm.com/cloud/garage/content/architecture/microservices)
+- [samples on cloud code patterns](https://developer.ibm.com/code/patterns/category/cloud/)
+- [helm charts](https://docs.helm.sh/)
+- [ibm charts](https://github.com/IBM/charts)
+- [k8s open charts](https://github.com/kubernetes/charts)
