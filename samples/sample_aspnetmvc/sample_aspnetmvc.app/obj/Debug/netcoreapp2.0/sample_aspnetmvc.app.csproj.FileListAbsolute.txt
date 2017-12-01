@@ -1,0 +1,10 @@
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.app/bin/Debug/netcoreapp2.0/sample_aspnetmvc.app.deps.json
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.app/bin/Debug/netcoreapp2.0/sample_aspnetmvc.app.runtimeconfig.json
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.app/bin/Debug/netcoreapp2.0/sample_aspnetmvc.app.runtimeconfig.dev.json
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.app/bin/Debug/netcoreapp2.0/sample_aspnetmvc.app.dll
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.app/bin/Debug/netcoreapp2.0/sample_aspnetmvc.app.pdb
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.app/obj/Debug/netcoreapp2.0/sample_aspnetmvc.app.csproj.CoreCompileInputs.cache
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.app/obj/Debug/netcoreapp2.0/sample_aspnetmvc.app.AssemblyInfoInputs.cache
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.app/obj/Debug/netcoreapp2.0/sample_aspnetmvc.app.AssemblyInfo.cs
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.app/obj/Debug/netcoreapp2.0/sample_aspnetmvc.app.dll
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.app/obj/Debug/netcoreapp2.0/sample_aspnetmvc.app.pdb

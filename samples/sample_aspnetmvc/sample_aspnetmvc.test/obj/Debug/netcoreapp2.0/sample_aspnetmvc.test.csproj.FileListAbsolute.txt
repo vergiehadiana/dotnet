@@ -1,0 +1,15 @@
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/bin/Debug/netcoreapp2.0/sample_aspnetmvc.test.deps.json
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/bin/Debug/netcoreapp2.0/sample_aspnetmvc.test.runtimeconfig.json
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/bin/Debug/netcoreapp2.0/sample_aspnetmvc.test.runtimeconfig.dev.json
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/bin/Debug/netcoreapp2.0/sample_aspnetmvc.test.dll
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/bin/Debug/netcoreapp2.0/sample_aspnetmvc.test.pdb
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/bin/Debug/netcoreapp2.0/sample_aspnetmvc.app.dll
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/bin/Debug/netcoreapp2.0/sample_aspnetmvc.app.pdb
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/obj/Debug/netcoreapp2.0/sample_aspnetmvc.test.csproj.CoreCompileInputs.cache
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/obj/Debug/netcoreapp2.0/sample_aspnetmvc.test.AssemblyInfoInputs.cache
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/obj/Debug/netcoreapp2.0/sample_aspnetmvc.test.AssemblyInfo.cs
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/obj/Debug/netcoreapp2.0/sample_aspnetmvc.test.dll
+/vagrant/dotnet/samples/sample_aspnetmvc/sample_aspnetmvc.test/obj/Debug/netcoreapp2.0/sample_aspnetmvc.test.pdb
