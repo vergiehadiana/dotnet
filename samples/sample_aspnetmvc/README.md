@@ -157,9 +157,6 @@ Below shows the application running in [IBM Cloud private](https://www.ibm.com/c
 
 ![app](../../images/app.png)
 
-# Create Helm charset
-**todo**
-
 # References
 - [ICP introduction](https://www.ibm.com/support/knowledgecenter/en/SSBS6K_2.1.0/getting_started/introduction.html)
 - [IBM reference architecture](https://www.ibm.com/cloud/garage/content/think/practice_get_started_with_architectures/)
