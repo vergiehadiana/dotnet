@@ -143,15 +143,15 @@ app | js-dotnet-web
 # Operation on application deployed
 You can deploy new version of image, rollback, scale and remove your deployment from the deployment dashboard. Search for your application and click on the vertical ellipsis "..." as shown below.
 
-![app](https://github.com/ibmcloudprivate2/dotnet/images/deployment-ops.png)
+![app](../../images/deployment-ops.png)
 
 # Access the application
 You can access your application from Service dashboard, search for your application and from there you can find your application endpoint and remove the service.
 
-![app](https://github.com/ibmcloudprivate2/dotnet/images/service-ops.png)
+![app](../../images/service-ops.png)
 
 ## the .net application
-![app](https://github.com/ibmcloudprivate2/dotnet/images/app.png)
+![app](../../images/app.png)
 
 # Create Helm charset
 **todo**
