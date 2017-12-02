@@ -14,5 +14,6 @@ details on the [Build, Test and Deploy a docker ASPNET MVC Core application](./s
 
 
 # References
+- [.NET Core Docker Production Sample](https://github.com/dotnet/dotnet-docker-samples/tree/master/dotnetapp-prod)
 - [Official images for .NET Core for Linux and Windows Server 2016 Nano Server](https://hub.docker.com/r/microsoft/dotnet/)
 - [dotnet core 2.0.0](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
