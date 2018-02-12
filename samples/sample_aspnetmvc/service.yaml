@@ -1,0 +1,20 @@
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: js-dotnet-kestrelapp-service
+  namespace: dev
+  labels:
+    app: js-dotnet-kestrelapp-service
+spec:
+  ports:
+  - name: js-dotnet-kestrelapp-service
+    protocol: TCP
+    port: 5000
+    targetPort: 80
+  selector:
+    app: js-dotnet-kestrelapp
+  clusterIP: 10.0.0.58
+  type: NodePort
+  sessionAffinity: None
+  externalTrafficPolicy: Cluster
