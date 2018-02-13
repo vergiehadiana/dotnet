@@ -1,0 +1,45 @@
+---
+apiVersion: apps/v1beta2
+kind: Deployment
+metadata:
+  name: js-dotnet-kestrelapp
+  namespace: dev
+  labels:
+    app: js-dotnet-kestrelapp
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: js-dotnet-kestrelapp
+  template:
+    metadata:
+      creationTimestamp:
+      labels:
+        app: js-dotnet-kestrelapp
+    spec:
+      containers:
+      - name: js-dotnet-kestrelapp
+        image: prd.icp:8500/dev/aspnetmvcapp:1.0
+        ports:
+        - containerPort: 80
+          protocol: TCP
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: js-dotnet-kestrelapp-service
+  namespace: dev
+  labels:
+    app: js-dotnet-kestrelapp-service
+spec:
+  ports:
+  - name: js-dotnet-kestrelapp-service
+    protocol: TCP
+    port: 5000
+    targetPort: 80
+  selector:
+    app: js-dotnet-kestrelapp
+  clusterIP: 10.0.0.58
+  type: NodePort
+  sessionAffinity: None
+  externalTrafficPolicy: Cluster

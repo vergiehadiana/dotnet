@@ -157,6 +157,50 @@ Below shows the application running in [IBM Cloud private](https://www.ibm.com/c
 
 ![app](../../images/app.png)
 
+## helm Chart
+
+### Create Helm Chart
+```
+helm create donet-app
+```
+
+### Package Helm Chart
+```
+helm package dotnet-app
+```
+
+### Deploy Helm Chart
+```
+helm install dotnet-app --name js-dotnet-app
+```
+
+### List of Chart
+```
+helm ls --all js-dotnet-app
+```
+
+### Remove Helm Chart
+```
+helm del --purge js-dotnet-app
+```
+
+### the chart URL
+the custom chart [dotnet-app-0.1.0.tgz](https://github.com/ibmcloudprivate2/mycharts/tree/master/docs)
+
+# Troubleshooting
+## incompatiable version
+if you encountered the following error during helm install
+```
+helm install dotnet-app --name js-dotnet-app
+Error: incompatible versions client[v2.8.1] server[v2.6.0]
+```
+to resovle the issue, you will need to download [helm 2.6.2](https://github.com/kubernetes/helm/releases/tag/v2.6.2) to downgrade your helm version.
+
+1. Download your desired version
+2. Unpack it (tar -zxvf helm-v2.0.0-linux-amd64.tgz)
+3. Find the helm binary in the unpacked directory, and move it to its desired destination (mv linux-amd64/helm /usr/local/bin/helm)
+
+
 # References
 - [ICP introduction](https://www.ibm.com/support/knowledgecenter/en/SSBS6K_2.1.0/getting_started/introduction.html)
 - [IBM reference architecture](https://www.ibm.com/cloud/garage/content/think/practice_get_started_with_architectures/)
