@@ -17,3 +17,7 @@ details on the [Build, Test and Deploy a docker ASPNET MVC Core application](./s
 - [.NET Core Docker Production Sample](https://github.com/dotnet/dotnet-docker-samples/tree/master/dotnetapp-prod)
 - [Official images for .NET Core for Linux and Windows Server 2016 Nano Server](https://hub.docker.com/r/microsoft/dotnet/)
 - [dotnet core 2.0.0](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
+- [Modernize existing .NET applications with Azure cloud and Windows Containers (v1.0)](https://docs.microsoft.com/en-us/dotnet/standard/modernize-with-azure-and-containers/)
+- [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/)
+- [.NET Microservices. Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/)
+- [Choosing between .NET Core and .NET Framework for server apps](https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server)
