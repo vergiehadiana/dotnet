@@ -21,3 +21,4 @@ details on the [Build, Test and Deploy a docker ASPNET MVC Core application](./s
 - [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/)
 - [.NET Microservices. Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/)
 - [Choosing between .NET Core and .NET Framework for server apps](https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server)
+- [NuGet](https://www.nuget.org/)
