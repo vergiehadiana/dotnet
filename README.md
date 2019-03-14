@@ -1,4 +1,5 @@
 # dotnet
+More Information : https://medium.com/@jaricsng/ibm-cloud-private-a-platform-that-allows-developers-to-deliver-application-features-and-yet-meet-cb4cfcecfcd4
 
 # setup your environment
 
